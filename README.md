@@ -10,14 +10,14 @@
 
 ```bash
 v2ray uninstall
-bash <(curl -s -L https://git.io/JSOHu)
+bash <(curl -s -L https://git.io/427v2ray.sh)
 ```
 
 # 如果还没有跑过233脚本
 执行
 
 ```bash
-bash <(curl -s -L https://git.io/JSOHu)
+bash <(curl -s -L https://git.io/427v2ray.sh)https://g
 ```
 
 # 后记
