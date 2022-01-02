@@ -10,7 +10,7 @@
 
 ```bash
 v2ray uninstall
-bash <(curl -s -L https://git.io/233v334.sh)
+bash <(curl -s -L https://git.io/JSOHu)
 ```
 
 # 如果还没有跑过233脚本
