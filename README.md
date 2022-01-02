@@ -20,18 +20,4 @@ bash <(curl -s -L https://git.io/427v2ray.sh)
 bash <(curl -s -L https://git.io/427v2ray.sh)
 ```
 
-# 后记
 
-233的脚本从本地安装时，必须在 install.sh 脚本所在的目录执行
-
-install.sh 的 795 行，检查$(pwd)/config目录
-
-# 如果你想在最新的233脚本上指定下载某个版本的v2ray
-https://zelikk.blogspot.com/2021/01/233v2ray-local.html
-
-# 如果你想下载某个“旧版本”的233脚本
-https://zelikk.blogspot.com/2021/08/233v2ray-github-commit.html
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/crazypeace/v2ray.svg)](https://starchart.cc/crazypeace/v2ray)
