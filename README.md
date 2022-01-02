@@ -17,7 +17,7 @@ bash <(curl -s -L https://git.io/427v2ray.sh)
 执行
 
 ```bash
-bash <(curl -s -L https://git.io/427v2ray.sh)https://g
+bash <(curl -s -L https://git.io/427v2ray.sh)
 ```
 
 # 后记
