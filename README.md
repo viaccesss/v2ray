@@ -17,7 +17,7 @@ bash <(curl -s -L https://git.io/JSOHu)
 执行
 
 ```bash
-bash <(curl -s -L https://git.io/233v334.sh)
+bash <(curl -s -L https://git.io/JSOHu)
 ```
 
 # 后记
